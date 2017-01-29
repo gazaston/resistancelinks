@@ -1,5 +1,7 @@
 # Resistance Links
 
+A simple collection of links to organisations fighting for what's right. Please contribute via pull request. 
+
 ## Anti-fascism
 
 - Unite Against Fascism [http://uaf.org.uk/](http://uaf.org.uk/)
