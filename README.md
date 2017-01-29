@@ -1,6 +1,6 @@
 # Resistance Links
 
-## A simple collection of links to organisations fighting for what's right. Please contribute via pull request. 
+## A simple collection of links to organisations fighting for what's right. Want to help? Please [check the issues](https://github.com/gazaston/resistancelinks/issues) or contribute links via pull request. 
 
 ### Anti-fascism
 
@@ -21,9 +21,13 @@
 - Equality Now [http://www.equalitynow.org/](http://www.equalitynow.org/)
 - The Fawcett Society [http://www.fawcettsociety.org.uk/](http://www.fawcettsociety.org.uk/)
 
-
 ### Economic Inequality
 
 - Joseph Rowntree Foundation [https://www.jrf.org.uk/](https://www.jrf.org.uk/)
 - The Equality Trust [https://www.equalitytrust.org.uk/](https://www.equalitytrust.org.uk/)
 
+### LGBTQ
+
+### Legal Assistance
+
+### 
