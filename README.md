@@ -36,7 +36,6 @@
 
 ### Legal Assistance
 - Public Law Project [http://www.publiclawproject.org.uk/](http://www.publiclawproject.org.uk/)
-- 
 
 ### Politicians and Political Parties
 - XXX
