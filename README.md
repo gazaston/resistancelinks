@@ -13,6 +13,7 @@
 - Equality Advisory and Support Service [http://www.equalityadvisoryservice.com/](http://www.equalityadvisoryservice.com/)
 - The British Institute of Human Rights [http://www.bihr.org.uk/](http://www.bihr.org.uk/)
 - Human Rights Watch [https://www.hrw.org/](https://www.hrw.org/)
+- Planned Parenthood Action Fund - https://www.plannedparenthoodaction.org
 
 ### Women's Rights
 - Equality Now [http://www.equalitynow.org/](http://www.equalitynow.org/)
@@ -32,7 +33,7 @@
 - The Equality Trust [https://www.equalitytrust.org.uk/](https://www.equalitytrust.org.uk/)
 
 ### LGBTQ
-- XXX
+- Lambda Legal http://www.lambdalegal.org/about-us
 
 ### Legal Assistance
 - Public Law Project [http://www.publiclawproject.org.uk/](http://www.publiclawproject.org.uk/)
