@@ -33,7 +33,7 @@
 - The Equality Trust [https://www.equalitytrust.org.uk/](https://www.equalitytrust.org.uk/)
 
 ### LGBTQ
-- Lambda Legal http://www.lambdalegal.org/about-us
+- Lambda Legal [http://www.lambdalegal.org/about-us](http://www.lambdalegal.org/about-us)
 
 ### Legal Assistance
 - Public Law Project [http://www.publiclawproject.org.uk/](http://www.publiclawproject.org.uk/)
@@ -43,4 +43,5 @@
 
 ### Religious Discrimination
 - Tell Mama [http://tellmamauk.org/](http://tellmamauk.org/)
+- Visit My Mosque [http://www.visitmymosque.org/](http://www.visitmymosque.org/)
 
